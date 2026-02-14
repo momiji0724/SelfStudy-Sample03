@@ -10,6 +10,10 @@ public class UnitychanSpwner : MonoBehaviour
     void Start()
     {
         var instance = Instantiate(_prefab);
+        var x = Random.Range(-5, 5);
+        var z = Random.Range(-5, 5);
+        instance.transform.Translate(0, 0, 0);
+
     }
 
     // Update is called once per frame

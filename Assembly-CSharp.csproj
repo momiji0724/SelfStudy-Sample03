@@ -65,6 +65,7 @@
     <Compile Include="Assets\Resources\unity-chan!\Unity-chan! Model\Scripts\SpringManager.cs" />
     <Compile Include="Assets\Resources\unity-chan!\Unity-chan! Model\Scripts\IKCtrlRightHand.cs" />
     <Compile Include="Assets\Resources\unity-chan!\Unity-chan! Model\Scripts\FaceUpdate.cs" />
+    <Compile Include="Assets\UnityChanController.cs" />
     <Compile Include="Assets\UnitychanSpwner.cs" />
     <Compile Include="Assets\Resources\unity-chan!\Unity-chan! Model\Scripts\ThirdPersonCamera.cs" />
     <Compile Include="Assets\Resources\unity-chan!\Unity-chan! Model\Scripts\CameraController.cs" />
