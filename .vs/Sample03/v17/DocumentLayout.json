@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "E:\\VantanGameAcademy\\Unity\\Sample03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{673002BE-6D2C-0F4A-085C-250C527B0838}|Assembly-CSharp.csproj|E:\\VantanGameAcademy\\Unity\\Sample03\\assets\\unitychancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{673002BE-6D2C-0F4A-085C-250C527B0838}|Assembly-CSharp.csproj|e:\\vantangameacademy\\unity\\sample03\\assets\\sample01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673002BE-6D2C-0F4A-085C-250C527B0838}|Assembly-CSharp.csproj|solutionrelative:assets\\sample01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673002BE-6D2C-0F4A-085C-250C527B0838}|Assembly-CSharp.csproj|e:\\vantangameacademy\\unity\\sample03\\assets\\unitychancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{673002BE-6D2C-0F4A-085C-250C527B0838}|Assembly-CSharp.csproj|solutionrelative:assets\\unitychancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{673002BE-6D2C-0F4A-085C-250C527B0838}|Assembly-CSharp.csproj|e:\\vantangameacademy\\unity\\sample03\\assets\\itemspwner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{673002BE-6D2C-0F4A-085C-250C527B0838}|Assembly-CSharp.csproj|E:\\VantanGameAcademy\\Unity\\Sample03\\assets\\itemspwner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{673002BE-6D2C-0F4A-085C-250C527B0838}|Assembly-CSharp.csproj|solutionrelative:assets\\itemspwner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Sample01.cs",
+              "DocumentMoniker": "E:\\VantanGameAcademy\\Unity\\Sample03\\Assets\\Sample01.cs",
+              "RelativeDocumentMoniker": "Assets\\Sample01.cs",
+              "ToolTip": "E:\\VantanGameAcademy\\Unity\\Sample03\\Assets\\Sample01.cs",
+              "RelativeToolTip": "Assets\\Sample01.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T14:04:03.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ItemSpwner.cs",
               "DocumentMoniker": "E:\\VantanGameAcademy\\Unity\\Sample03\\Assets\\ItemSpwner.cs",
               "RelativeDocumentMoniker": "Assets\\ItemSpwner.cs",
@@ -34,25 +51,24 @@
               "RelativeToolTip": "Assets\\ItemSpwner.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAswBEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T14:14:38.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T14:14:38.608Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UnityChanController.cs",
               "DocumentMoniker": "E:\\VantanGameAcademy\\Unity\\Sample03\\Assets\\UnityChanController.cs",
               "RelativeDocumentMoniker": "Assets\\UnityChanController.cs",
               "ToolTip": "E:\\VantanGameAcademy\\Unity\\Sample03\\Assets\\UnityChanController.cs",
               "RelativeToolTip": "Assets\\UnityChanController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAIwCEAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwCEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-14T15:39:51.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UnitychanSpwner.cs",
               "DocumentMoniker": "E:\\VantanGameAcademy\\Unity\\Sample03\\Assets\\UnitychanSpwner.cs",
               "RelativeDocumentMoniker": "Assets\\UnitychanSpwner.cs",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "Assets\\UnitychanSpwner.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T14:52:51.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T14:52:51.36Z"
             }
           ]
         }
