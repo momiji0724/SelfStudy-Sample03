@@ -367,6 +367,7 @@
 "Assets/Resources/unity-chan!/Unity-chan! Model/SplashScreen/Scripts/SplashScreen.cs"
 "Assets/Sample01.cs"
 "Assets/Sample02.cs"
+"Assets/Sample03.cs"
 "Assets/UnityChanController.cs"
 "Assets/UnitychanSpwner.cs"
 -langversion:9.0

@@ -63,6 +63,7 @@
     <Compile Include="Assets\Resources\unity-chan!\Unity-chan! Model\Scripts\SpringBone.cs" />
     <Compile Include="Assets\Sample01.cs" />
     <Compile Include="Assets\Resources\unity-chan!\Unity-chan! Model\Scripts\SpringCollider.cs" />
+    <Compile Include="Assets\Sample03.cs" />
     <Compile Include="Assets\Resources\unity-chan!\Unity-chan! Model\Scripts\SpringManager.cs" />
     <Compile Include="Assets\Resources\unity-chan!\Unity-chan! Model\Scripts\IKCtrlRightHand.cs" />
     <Compile Include="Assets\Resources\unity-chan!\Unity-chan! Model\Scripts\FaceUpdate.cs" />
@@ -71,6 +72,7 @@
     <Compile Include="Assets\Resources\unity-chan!\Unity-chan! Model\Scripts\ThirdPersonCamera.cs" />
     <Compile Include="Assets\Resources\unity-chan!\Unity-chan! Model\Scripts\CameraController.cs" />
     <Compile Include="Assets\Resources\unity-chan!\Unity-chan! Model\Scripts\AutoBlink.cs" />
+    <Compile Include="Assets\Sample02.cs" />
     <Compile Include="Assets\Resources\unity-chan!\Unity-chan! Model\Scripts\IdleChanger.cs" />
     <Compile Include="Assets\ItemSpwner.cs" />
     <Compile Include="Assets\Resources\unity-chan!\Unity-chan! Model\SplashScreen\Scripts\SplashScreen.cs" />
