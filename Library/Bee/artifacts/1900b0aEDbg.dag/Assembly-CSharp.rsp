@@ -368,6 +368,7 @@
 "Assets/Sample01.cs"
 "Assets/Sample02.cs"
 "Assets/Sample03.cs"
+"Assets/Sample04.cs"
 "Assets/UnityChanController.cs"
 "Assets/UnitychanSpwner.cs"
 -langversion:9.0
